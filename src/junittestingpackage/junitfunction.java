@@ -1,10 +1,14 @@
 package junittestingpackage;
 
 public class junitfunction {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public int addnumbers(int a,int b) {
+		return a+b;
 	}
+	public String addstring(String s1,String s2) {
+		return s1+s2;
+	}
+	
+
+	
 
 }
